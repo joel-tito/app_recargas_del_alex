@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776414056280",
+    "project_id": "recargasdelalex-24a52",
+    "storage_bucket": "recargasdelalex-24a52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776414056280:android:ea49b4a13e52d1ab641f2d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhC3A9XukLTj7gPoJxAKsb4zas22EY4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776414056280:android:ad42335ecbb5e72b641f2d",
+        "android_client_info": {
+          "package_name": "com.example.app_recargas_del_alex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhC3A9XukLTj7gPoJxAKsb4zas22EY4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
